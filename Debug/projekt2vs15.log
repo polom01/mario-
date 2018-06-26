@@ -1,0 +1,75 @@
+﻿  funkcja.cpp
+c:\users\kacper\desktop\glowny mario\pp\funkcja.cpp(68): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\kacper\desktop\glowny mario\pp\funkcja.cpp(107): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\kacper\desktop\glowny mario\pp\funkcja.cpp(125): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\kacper\desktop\glowny mario\pp\funkcja.cpp(130): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\kacper\desktop\glowny mario\pp\funkcja.cpp(142): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\kacper\desktop\glowny mario\pp\funkcja.cpp(156): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\kacper\desktop\glowny mario\pp\funkcja.cpp(161): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\kacper\desktop\glowny mario\pp\funkcja.cpp(166): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\kacper\desktop\glowny mario\pp\funkcja.cpp(206): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\kacper\desktop\glowny mario\pp\funkcja.cpp(207): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\kacper\desktop\glowny mario\pp\funkcja.cpp(218): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\kacper\desktop\glowny mario\pp\funkcja.cpp(219): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\kacper\desktop\glowny mario\pp\funkcja.cpp(236): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\kacper\desktop\glowny mario\pp\funkcja.cpp(237): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\kacper\desktop\glowny mario\pp\funkcja.cpp(247): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\kacper\desktop\glowny mario\pp\funkcja.cpp(248): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\kacper\desktop\glowny mario\pp\funkcja.cpp(249): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\kacper\desktop\glowny mario\pp\funkcja.cpp(250): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\kacper\desktop\glowny mario\pp\funkcja.cpp(259): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\kacper\desktop\glowny mario\pp\funkcja.cpp(263): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\kacper\desktop\glowny mario\pp\funkcja.cpp(266): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\kacper\desktop\glowny mario\pp\funkcja.cpp(269): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\kacper\desktop\glowny mario\pp\funkcja.cpp(273): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\kacper\desktop\glowny mario\pp\funkcja.cpp(275): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\kacper\desktop\glowny mario\pp\funkcja.cpp(261): warning C4101: 'spr': unreferenced local variable
+  Generating Code...
+c:\users\kacper\desktop\glowny mario\pp\funkcja.cpp(724): warning C4715: 'spr_bmp': not all control paths return a value
+  Compiling...
+  main.cpp
+c:\users\kacper\desktop\glowny mario\pp\main.cpp(189): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\kacper\desktop\glowny mario\pp\main.cpp(192): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\kacper\desktop\glowny mario\pp\main.cpp(195): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\kacper\desktop\glowny mario\pp\main.cpp(197): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\kacper\desktop\glowny mario\pp\main.cpp(203): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\kacper\desktop\glowny mario\pp\main.cpp(205): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  Generating Code...
+  projekt2vs15.vcxproj -> C:\Users\kacper\Desktop\glowny mario\pp\Debug\projekt2vs15.exe
+  projekt2vs15.vcxproj -> C:\Users\kacper\Desktop\glowny mario\pp\Debug\projekt2vs15.pdb (Full PDB)
+  C:\Users\kacper\Desktop\glowny mario\pp\sdl\winlib15\concrt140.dll
+  C:\Users\kacper\Desktop\glowny mario\pp\sdl\winlib15\SDL2.dll
+  C:\Users\kacper\Desktop\glowny mario\pp\sdl\winlib15\vccorlib140.dll
+  C:\Users\kacper\Desktop\glowny mario\pp\sdl\winlib15\vcruntime140.dll
+          4 file(s) copied.
+  C:\Users\kacper\Desktop\glowny mario\pp\1mario_jump.bmp
+  C:\Users\kacper\Desktop\glowny mario\pp\1mario_move0.bmp
+  C:\Users\kacper\Desktop\glowny mario\pp\1mario_move1.bmp
+  C:\Users\kacper\Desktop\glowny mario\pp\1mario_move2.bmp
+  C:\Users\kacper\Desktop\glowny mario\pp\brickred.bmp
+  C:\Users\kacper\Desktop\glowny mario\pp\cs8x8.bmp
+  C:\Users\kacper\Desktop\glowny mario\pp\eti.bmp
+  C:\Users\kacper\Desktop\glowny mario\pp\goombas_0.bmp
+  C:\Users\kacper\Desktop\glowny mario\pp\goombas_1.bmp
+  C:\Users\kacper\Desktop\glowny mario\pp\mario_jump.bmp
+  C:\Users\kacper\Desktop\glowny mario\pp\mario_move0.bmp
+  C:\Users\kacper\Desktop\glowny mario\pp\mario_move1.bmp
+  C:\Users\kacper\Desktop\glowny mario\pp\mario_move2.bmp
+  C:\Users\kacper\Desktop\glowny mario\pp\podloga.bmp
+  C:\Users\kacper\Desktop\glowny mario\pp\przyklad.bmp
+  C:\Users\kacper\Desktop\glowny mario\pp\spikey0_0.bmp
+  C:\Users\kacper\Desktop\glowny mario\pp\spikey0_1.bmp
+         17 file(s) copied.
